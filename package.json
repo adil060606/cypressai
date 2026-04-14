@@ -1,0 +1,12 @@
+{
+  "name": "cypressai",
+  "version": "1.0.0",
+  "description": "Cypress end-to-end tests for saucedemo.com",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
